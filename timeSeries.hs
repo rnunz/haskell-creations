@@ -3,6 +3,7 @@ import qualified Data.Map as Map
 import Data.Semigroup
 import Data.Maybe
 
+--Example of disjointed time series data
 file1 :: [(Int,Double)]
 file1 = [ (1, 200.1), (2, 199.5), (3, 199.4)
         , (4, 198.9), (5, 199.0), (6, 200.2)
