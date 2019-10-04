@@ -3,7 +3,7 @@ Various projects that I have created throughout school and my free time using th
 ## Primes
 Prime-Number Library that factors a number into primes and determines if a number is prime.
 ## hinq.hs
-SQL-Like interface to lists and other monads
+SQL-Like interface to lists and other monads.
 ## glitchArt.hs
 simple command-line tool that creates visual artifacts in a image.
 ## timeSeries.hs
